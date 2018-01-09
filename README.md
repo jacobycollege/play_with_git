@@ -15,9 +15,9 @@ Fork it, play with it and improve it!
 
 ## My favorite animals
 
-1. cat
-2. dog
-3. horse
+1. Jimmy Katz
+2. dog the bounty hunter
+3. Bear Grylls
 
 My lovely cat!
 ![Funny Cat](funny_cat.jpg)
