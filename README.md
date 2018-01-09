@@ -19,5 +19,14 @@ Fork it, play with it and improve it!
 2. dog the bounty hunter
 3. Bear Grylls
 
+## Buy:
+1. Sell
+2. Buy
+3. Sell
+
+> I can't believe you'd quote me on your website without my permission!
+> Go fuck yourself Jacob. - Anonymous
+
+
 My lovely cat!
 ![Funny Cat](funny_cat.jpg)
